@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Abhi's Website!
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+In here I will tell you about all the amazing stories that I have seen!! There are so many to tell, and I can't wait! Now then, come along for the ride little one...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### The big locky
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
